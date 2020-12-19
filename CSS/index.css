@@ -1,0 +1,42 @@
+body
+{
+  line-height:1.5em;
+  background:linear-gradient(125deg,#a7aba9,white,#bff3ff);
+}
+#row1
+{
+  margin-top:10px;
+  background:linear-gradient(125deg,#a7aba9,white,#bff3ff);
+}
+#row2
+{
+  background:linear-gradient(75deg,#a7aba9,white,#bff3ff);
+}
+.image
+{
+width: 40%;
+border-radius:100%;
+border:2px solid black;
+overflow: hidden;
+margin-left:35px;
+}
+img
+{
+  max-width:100%;
+  height: auto;
+}
+table
+{
+  text-align: center;
+  margin-top: 1px;
+}
+th
+{
+  background-color:30a9ff;
+  padding:5px;
+}
+td
+{
+  background:transparet;
+
+}
